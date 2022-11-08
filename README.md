@@ -1,4 +1,4 @@
-<h1 align="center">⚜️𝘋𝘈𝘙𝘒 𝘕𝘌𝘙𝘖 𝘔𝘋 V6⚜️<br></h1>
+<h1 align="center">⚜️dark shadow 𝘔𝘋 ⚜️<br></h1>
 <p align="center">
 <img src="https://i.ibb.co/NpXYnCh/Whats-App-Image-2022-10-10-at-10-37-16.jpg"
 
@@ -22,11 +22,9 @@
 
 
 
-# > THANKS FOR CHOOSING DARK NERO BOT WE APPRECIATE YOU FOR YOUR SUPPORT
+# > THANKS FOR CHOOSING DARK shadow BOT WE APPRECIATE YOU FOR YOUR SUPPORT
  
-# > KUMUTHU 
-# > VIHANGA
-# > THINURA
-# > LAKHAN
-# > pramu
-# > Amra
+# >lakiya mod
+# > dark shadow
+
+
