@@ -1,6 +1,6 @@
   
 // ⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈
-//▮⚜️𝘋𝘈𝘙𝘒 𝘕𝘌𝘙𝘖 𝘔𝘋⚜️ ®️ALL RIGHTS RESERVED
+//▮⚜️𝘋𝘈𝘙𝘒 𝙨𝙝𝙖𝙙𝙤𝙬 𝘔𝘋⚜️ ®️ALL RIGHTS RESERVED
 //▮
 //▮FORK AND DON'T FORGET TO GIVE A STAR
 //▮
@@ -142,7 +142,7 @@ mentions: [num],
 fileName: `Welcome To ${metadata.subject}`,
 fileLength: 99999999999999,
 caption: he,
-footer: `DARK NERO MD`,
+footer: `DARK shadow MD`,
 buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
@@ -170,7 +170,7 @@ mentions: [num],
 fileName: `He/She is gone bro ${metadata.subject}`,
 fileLength: 99999999999999,
 caption: he,
-footer: `DARK NERO MD`,
+footer: `DARK shadow MD`,
 buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
